@@ -1,62 +1,74 @@
 [
     {
+      "id": 0,
+      "name": "Garnet",
+      "clicked": false,
+      "image": "https://cfvod.kaltura.com/p/1836881/sp/183688100/thumbnail/entry_id/0_wmm8uvr2/version/100022/width/600/height/400"
+    },
+    {
       "id": 1,
       "name": "Stevonnie",
-      "image": "https://cfvod.kaltura.com/p/1836881/sp/183688100/thumbnail/entry_id/0_wmm8uvr2/version/100022/width/600/height/400"
+      "clicked": false,
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-09/29/16/enhanced/buzzfeed-prod-fastlane03/original-grid-image-24898-1475180807-2.jpg?crop=519:519;175,48&downsize=400:*&output-format=auto&output-quality=auto"
     },
     {
       "id": 2,
       "name": "Pearl",
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-09/29/16/enhanced/buzzfeed-prod-fastlane03/original-grid-image-24898-1475180807-2.jpg?crop=519:519;175,48&downsize=400:*&output-format=auto&output-quality=auto"
+      "clicked": false,
+      "image": "https://pbs.twimg.com/profile_images/1087710123651301376/rgJ0Uaid_400x400.jpg"
     },
     {
       "id": 3,
       "name": "Lapis-Lazuli",
-      "image": "https://pbs.twimg.com/profile_images/1087710123651301376/rgJ0Uaid_400x400.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Dexter",
+      "clicked": false,
       "image": "https://i.pinimg.com/originals/42/57/6b/42576b2df63e3f9a71cab0553c2d4f62.png"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Lars",
+      "clicked": false,
       "image": "https://static.solarmovie.id/img/cele/0iiuKn_dVIJ8YUT-GfphSffm9vvwmOyB4XTWy9zl6nJxyL_jJ0VPuxPnyDcVUxpTXpew31GvZJYAuB_tsyPW6GVsQIbRvMX6opzPLzYQHyA.jpg?1"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Peridot-&-Lapis",
+      "clicked": false,
       "image": "https://static.fusionmovies.to/images/character/O467wIuOqGTpsjcmpwPN3wHVvp9H5JNqJ1Rm3Fn9zuH2KOirMCxBX0MGqolR3UoZFdakJt8XEDPa6ScT3my7PWZkuFriL-AhM98UXmUNLG8J6rOXV2RYRCOj_rqWBcw5.jpg?1"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Malachite-Fighting-Alexandrite",
+      "clicked": false,
       "image": "https://static.fusionmovies.to/images/character/nSIQqwhJ9MTtojDY-QB8KICHlB6n2Ssx7YN9tEItUGGPJIMI7R915O8LhRMnqmtauu3Mbuk12wLY52m9zu-5kFfhBJ2BFBHUcKSZPvfh1P5ZL3gxwYhEqokPea-pMpYv.jpg?1"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Pink-Diamond-&-Pearl",
+      "clicked": false,
       "image": "https://static.solarmovie.id/img/char/gfUnp-8ARYNbXD8WiX_cSkasJ8G2JguFBsSTB7FzUV3-veZMNgBCgBFbJMS77sNs_iuJFubWX5lEwsqJLzpdeMTtd4J9mcszPaFxM0yLfP0.jpg?1"
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Crystal-Gems",
+      "clicked": false,
       "image": "https://static.fusionmovies.to/images/character/-VunCOZoshM07cwXuvIE26wvmDv6yKAsVmHU-XZVkPNWUpOH9kw09noaIRBZGZn-WjehqNqe0txz9IyNRE6TUkQDdHPSnbgbILZ64PQS8bOlKKySxENR4o1Q5oqrnEFG.jpg?1"
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Connie-&-Steven",
+      "clicked": false,
       "image": "http://cfvod.kaltura.com/p/1745101/sp/174510100/thumbnail/entry_id/1_762jyunr/version/100011/width/600/height/400"
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Saphire",
+      "clicked": false,
       "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-09/29/16/enhanced/buzzfeed-prod-fastlane01/original-grid-image-1979-1475180684-1.jpg?crop=576:576;166,0&downsize=400:*&output-format=auto&output-quality=auto"
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Sadie",
+      "clicked": false,
       "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-09/29/16/enhanced/buzzfeed-prod-fastlane01/original-grid-image-2570-1475180863-1.jpg?crop=542:542;289,23&downsize=400:*&output-format=auto&output-quality=auto"
     }
   ]
